@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **JavaScript and React js**
 
-- 📫 How to reach me **talk20priyanshu@gmail.com**
+- 📫 How to reach me **talk2priyanshupawar@gmail.com**
 - Portfolio : [priyanshupawar.github.io](https://priyanshupawar.github.io/)
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hYCGrkJ7CmsyZJp9QPGQw70K5jrtmovt/view?usp=sharing](https://drive.google.com/file/d/1hYCGrkJ7CmsyZJp9QPGQw70K5jrtmovt/view?usp=sharing)
 <hr>
