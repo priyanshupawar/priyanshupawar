@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif)
+
 </div>
 <h1 align="center">Hi 👋, I'm Priyanshu Pawar</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
