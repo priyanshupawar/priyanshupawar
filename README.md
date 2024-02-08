@@ -16,15 +16,15 @@
 <p align="center"> <a href="https://twitter.com/priyanshupawar" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshupawar?logo=twitter&style=for-the-badge" alt="priyanshupawar" /></a> </p>
 
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently working on **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://priyanshupawar.github.io/](https://priyanshupawar.github.io/)
 
-- 💬 Ask me about **JavaScript and React js**
+- 💬 Ask me about **HTML, CSS, JavaScript, Material UI, React.js, React-redux and Node.js(basic)**
 
 - 📫 How to reach me **priyanshu05pawar@gmail.com**
 - Portfolio : [priyanshupawar.github.io](https://priyanshupawar.github.io/)
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hYCGrkJ7CmsyZJp9QPGQw70K5jrtmovt/view?usp=sharing](https://drive.google.com/file/d/1hYCGrkJ7CmsyZJp9QPGQw70K5jrtmovt/view?usp=sharing)
+
 
 <hr>
 <h3 align="center">Languages and Tools:-</h3>
