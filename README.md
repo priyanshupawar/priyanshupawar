@@ -18,8 +18,6 @@
 
 - 🌱 I’m currently working on **Full Stack Web Development**
 
-//- 👨‍💻 All of my projects are available at [https://priyanshupawar.github.io/](https://priyanshupawar.github.io/)
-
 - 💬 Ask me about **HTML, CSS, JavaScript, Material UI, React.js, React-redux and Node.js(basic)**
 
 - 📫 How to reach me **priyanshu05pawar@gmail.com**
