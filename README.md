@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently working on **Full Stack Web Development**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, React-redux & Node.js(basic)**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, React-redux **
 
 - 📫 How to reach me **priyanshu05pawar@gmail.com**
 - Portfolio : [priyanshupawar.github.io](https://priyanshupawar.github.io/)
